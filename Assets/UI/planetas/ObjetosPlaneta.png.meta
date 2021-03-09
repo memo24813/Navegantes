@@ -1,0 +1,1148 @@
+fileFormatVersion: 2
+guid: 6af4d3c8144ca20498e18ff90adba8bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7693211923526273502
+    second: ObjetosPlaneta_0
+  - first:
+      213: 4023585554684187027
+    second: ObjetosPlaneta_1
+  - first:
+      213: 8535408474544604945
+    second: ObjetosPlaneta_2
+  - first:
+      213: 4261971874414225735
+    second: ObjetosPlaneta_3
+  - first:
+      213: 7654122410368866579
+    second: ObjetosPlaneta_4
+  - first:
+      213: 6540573396981592652
+    second: ObjetosPlaneta_5
+  - first:
+      213: -8102816571342658142
+    second: ObjetosPlaneta_6
+  - first:
+      213: 1695887895514208423
+    second: ObjetosPlaneta_7
+  - first:
+      213: -2320079666317651483
+    second: ObjetosPlaneta_8
+  - first:
+      213: -1032794752513224056
+    second: ObjetosPlaneta_9
+  - first:
+      213: -1515199888518159128
+    second: ObjetosPlaneta_10
+  - first:
+      213: -7139175082555895261
+    second: ObjetosPlaneta_11
+  - first:
+      213: 2794235649059257908
+    second: ObjetosPlaneta_12
+  - first:
+      213: 6951812525096017715
+    second: ObjetosPlaneta_13
+  - first:
+      213: 4165445479668210799
+    second: ObjetosPlaneta_14
+  - first:
+      213: 321093887620809212
+    second: ObjetosPlaneta_15
+  - first:
+      213: 539407364894111930
+    second: ObjetosPlaneta_16
+  - first:
+      213: 7325842405674115082
+    second: ObjetosPlaneta_17
+  - first:
+      213: -8952646955439851573
+    second: ObjetosPlaneta_18
+  - first:
+      213: -4994682147593320312
+    second: ObjetosPlaneta_19
+  - first:
+      213: 7031573598480454830
+    second: ObjetosPlaneta_20
+  - first:
+      213: -8965071369717181641
+    second: ObjetosPlaneta_21
+  - first:
+      213: 3222844296621302837
+    second: ObjetosPlaneta_22
+  - first:
+      213: -7347343423126198128
+    second: ObjetosPlaneta_23
+  - first:
+      213: 3688054563892579456
+    second: ObjetosPlaneta_24
+  - first:
+      213: -6908228834265937917
+    second: ObjetosPlaneta_25
+  - first:
+      213: -7040472353824774467
+    second: ObjetosPlaneta_26
+  - first:
+      213: 3340872311225424325
+    second: ObjetosPlaneta_27
+  - first:
+      213: -6790068007999622159
+    second: ObjetosPlaneta_28
+  - first:
+      213: 1076699973396121379
+    second: ObjetosPlaneta_29
+  - first:
+      213: 1785336428220964864
+    second: ObjetosPlaneta_30
+  - first:
+      213: -754158213699653836
+    second: ObjetosPlaneta_31
+  - first:
+      213: 6993395330885341307
+    second: ObjetosPlaneta_32
+  - first:
+      213: -4418769081285748086
+    second: ObjetosPlaneta_33
+  - first:
+      213: -2158494826069663455
+    second: ObjetosPlaneta_34
+  - first:
+      213: 1979060068667940016
+    second: ObjetosPlaneta_35
+  - first:
+      213: 6423012075991823023
+    second: ObjetosPlaneta_36
+  - first:
+      213: 6670052674489783471
+    second: ObjetosPlaneta_37
+  - first:
+      213: -2184702930412283455
+    second: ObjetosPlaneta_38
+  - first:
+      213: -6261977171369801764
+    second: ObjetosPlaneta_39
+  - first:
+      213: 1320648807980682641
+    second: ObjetosPlaneta_40
+  - first:
+      213: 4801086646308487103
+    second: ObjetosPlaneta_41
+  - first:
+      213: -5292976443802167256
+    second: ObjetosPlaneta_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ObjetosPlaneta_0
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 651
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9459beb77c3ca60800000000000000
+      internalID: 7693211923526273502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 668
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391185e7eb5a6d730800000000000000
+      internalID: 4023585554684187027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 630
+        width: 170
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117071af8ccd37670800000000000000
+      internalID: 8535408474544604945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 644
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7496a21c6d0952b30800000000000000
+      internalID: 4261971874414225735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 633
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319946967c7e83a60800000000000000
+      internalID: 7654122410368866579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_5
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 634
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c423572e9d8c4ca50800000000000000
+      internalID: 6540573396981592652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 191
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e8f842430d8f80800000000000000
+      internalID: -8102816571342658142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 612
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a852074e01098710800000000000000
+      internalID: 1695887895514208423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 621
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19786f5db6dcfd0800000000000000
+      internalID: -2320079666317651483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 598
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882df8205a6caa1f0800000000000000
+      internalID: -1032794752513224056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 457
+        width: 183
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4e921babde8fae0800000000000000
+      internalID: -1515199888518159128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 558
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3229fee561e8cec90800000000000000
+      internalID: -7139175082555895261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_12
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 543
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef8e0b48e17c620800000000000000
+      internalID: 2794235649059257908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_13
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 485
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f9577c8acc97060800000000000000
+      internalID: 6951812525096017715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 395
+        width: 134
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c51e22892aec930800000000000000
+      internalID: 4165445479668210799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 475
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf100378031c47400800000000000000
+      internalID: 321093887620809212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 460
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab83eb5f32c5c7700800000000000000
+      internalID: 539407364894111930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 326
+        width: 146
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e2be9ade9aa560800000000000000
+      internalID: 7325842405674115082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 429
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc77685f60fc1c380800000000000000
+      internalID: -8952646955439851573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 387
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88807babc035faab0800000000000000
+      internalID: -4994682147593320312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 395
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45175deea259160800000000000000
+      internalID: 7031573598480454830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 313
+        width: 192
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7339bf5961ba59380800000000000000
+      internalID: -8965071369717181641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 328
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534a18affc7d9bc20800000000000000
+      internalID: 3222844296621302837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 348
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098a2c5a51ef80a90800000000000000
+      internalID: -7347343423126198128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 338
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c4311f51a9e2330800000000000000
+      internalID: 3688054563892579456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 337
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308c7720a7a0120a0800000000000000
+      internalID: -6908228834265937917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6e05b32b73b4e90800000000000000
+      internalID: -7040472353824774467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c997869aa92d5e20800000000000000
+      internalID: 3340872311225424325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 194
+        width: 207
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3307e3f15d4c1a0800000000000000
+      internalID: -6790068007999622159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c2f3dbe431fe00800000000000000
+      internalID: 1076699973396121379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_30
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 248
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000eca8b50ac6c810800000000000000
+      internalID: 1785336428220964864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 275
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f2dffa911b885f0800000000000000
+      internalID: -754158213699653836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 248
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70db4730088d0160800000000000000
+      internalID: 6993395330885341307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 195
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8adb75aee06da2c0800000000000000
+      internalID: -4418769081285748086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 83
+        width: 148
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1216992546c7b02e0800000000000000
+      internalID: -2158494826069663455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 187
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcdc1e95a8077b10800000000000000
+      internalID: 1979060068667940016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 180
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27989d37f132950800000000000000
+      internalID: 6423012075991823023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 152
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa49b186199c09c50800000000000000
+      internalID: 6670052674489783471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_38
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 54
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9550582406ea1e0800000000000000
+      internalID: -2184702930412283455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7c5e4a0fcf819a0800000000000000
+      internalID: -6261977171369801764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 26
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d4bb00813e35210800000000000000
+      internalID: 1320648807980682641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 146
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfb6191ed2e0a240800000000000000
+      internalID: 4801086646308487103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjetosPlaneta_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 17
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82859aeb7f19b86b0800000000000000
+      internalID: -5292976443802167256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
